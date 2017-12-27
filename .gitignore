@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Visual Studio
+*.vscode
+
+# Script logs
+stats.log
+
+# IMDB exported lists
+*.csv
+
+# PyBuilder
+target/
+
+# pyenv
+.python-version
